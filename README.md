@@ -1,4 +1,4 @@
-# Hi there, I'm Jay Prajapati! 👋
+# Hi there, I'm Jay Prajapati!
 
 I am a **Computer Engineering graduate** and current **AI & Machine Learning student** based in Montreal, QC.
 
