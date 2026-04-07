@@ -4,11 +4,6 @@ I am a **Computer Engineering graduate** and current **AI & Machine Learning stu
 
 With 4 years of experience as a Data Engineer in the healthcare domain, I have learned that you need to truly understand and feel the data. Sometimes what looks like a coincidence can be a pattern, simple architectures can work effectively in one shot, and good observability saves a lot of time.
 Currently, I am focused on Deep Learning, Computer Vision, and building end-to-end ML pipelines.
-<<<<<<< HEAD
-=======
-
->>>>>>> 44125fc1710b2d14ce7e3fd33562922144cec7b9
-
 
 ---
 
